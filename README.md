@@ -69,16 +69,14 @@ Sedangkan untuk visualisasi dashboard yang tampilkan:
     - Distribusi siswa yang mendapatkan beasiswa berdasarkan status akademik siswa
     - Distribusi siswa yang membayar biaya sekolah tepat waktu berdasarkan status akademik siswa
     - Distribusi umur siswa ketika mendaftar universitas
-    
+
 Berikut link untuk mengakses dashboard looker studio: [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/d753c945-559b-46af-ba65-9d13bf43fbab)
 
-<<<<<<< HEAD
-## Menjalankan Machine Learning Yang Telah Dilatih
-=======
-Berikut link untuk mengakses dashboard streamlit: [Dashboard Streamlit](https://student-performance-classification-czj3a5sx23cqmupbatxnph.streamlit.app/)
 
-## Menjalankan Sistem Machine Learning
->>>>>>> be447128c0a5058138e7d02495bad28db8f63f50
+## Menjalankan Machine Learning Yang Telah Dilatih
+Berikut link untuk mengakses sistem machine learning streamlit: [Dashboard Streamlit](https://student-performance-classification-czj3a5sx23cqmupbatxnph.streamlit.app/)
+
+## Menjalankan Machine Learning Yang Telah Dilatih
 Model machine learning (Logistic Regression) beserta pipeline preprocessing dan label encoder telah disimpan di folder `models/`.
 - File model: `models/final_lr_model.pkl`
 - Pipeline preprocessing: `models/preprocessing_pipeline.pkl`
