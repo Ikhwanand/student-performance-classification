@@ -74,7 +74,7 @@ Berikut link untuk mengakses dashboard looker studio: [Looker Studio Dashboard](
 
 
 ## Menjalankan Machine Learning Yang Telah Dilatih
-Berikut link untuk mengakses sistem machine learning streamlit: [Dashboard Streamlit](https://student-performance-classification-czj3a5sx23cqmupbatxnph.streamlit.app/)
+Berikut link untuk mengakses sistem machine learning streamlit: [Dashboard Streamlit](https://student-performance-classification-8hohdvrtjby4hwj24hmmza.streamlit.app/)
 
 ## Menjalankan Machine Learning Yang Telah Dilatih
 Model machine learning (Logistic Regression) beserta pipeline preprocessing dan label encoder telah disimpan di folder `models/`.
@@ -82,7 +82,7 @@ Model machine learning (Logistic Regression) beserta pipeline preprocessing dan 
 - Pipeline preprocessing: `models/preprocessing_pipeline.pkl`
 - Label encoder: `models/label_encoder.pkl`
 
-Proses prediksi dapat dilakukan langsung melalui dashboard Streamlit. Untuk pelatihan ulang atau eksperimen model, gunakan notebook <mcfile name="notebook-1.ipynb" path="d:/student-performance-classification/notebook-1.ipynb"></mcfile>.
+Proses prediksi dapat dilakukan langsung melalui sistem machine learning Streamlit. Untuk pelatihan ulang atau eksperimen model, gunakan notebook <mcfile name="notebook-1.ipynb" path="d:/student-performance-classification/notebook-1.ipynb"></mcfile>.
 
 ## Conclusion
 Proyek ini berhasil membangun sistem prediksi status mahasiswa berbasis machine learning yang terintegrasi dalam dashboard interaktif. Hasil analisis menunjukkan beberapa faktor utama yang berkontribusi pada status mahasiswa, seperti performa akademik semester awal, status pembayaran SPP, dan penerimaan beasiswa. Dashboard yang dibuat memudahkan pihak institusi untuk melakukan monitoring, eksplorasi data, dan prediksi secara real-time.
